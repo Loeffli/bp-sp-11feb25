@@ -11,8 +11,6 @@
 .cards > ul > li {
   border: 1px solid #dadada;
   background-color: var(--background-color);
-  border: 5px solid blue; 
-  
 }
 
 .cards .cards-card-body {
